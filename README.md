@@ -1,5 +1,5 @@
 # GPT-API-Azure
 
-Using Azure to call GPT-API and alive
+Using Azure to call GPT-API
 
 没啥鸟用
